@@ -30,3 +30,5 @@ In the project directory, you can run:
      
 ### Output: Below is the endpoint URL:
   http://localhost:3000/
+  
+Note: I have commented 5secs timer in the code while fetching objects from API as it gives 429 error Too many request.
